@@ -1,0 +1,782 @@
+title,genre,price,rating,stock_count,in_stock
+It's Only the Himalayas,Travel,45.17,2,19,True
+Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,Travel,49.43,4,15,True
+See America: A Celebration of Our National Parks & Treasured Sites,Travel,48.87,3,14,True
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,Travel,36.94,2,8,True
+Under the Tuscan Sun,Travel,37.33,3,7,True
+A Summer In Europe,Travel,44.34,2,7,True
+The Great Railway Bazaar,Travel,30.54,1,6,True
+A Year in Provence (Provence #1),Travel,56.88,4,6,True
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),Travel,23.21,1,3,True
+Neither Here nor There: Travels in Europe,Travel,38.95,3,3,True
+"1,000 Places to See Before You Die",Travel,26.08,5,1,True
+Sharp Objects,Mystery,47.82,4,20,True
+"In a Dark, Dark Wood",Mystery,19.63,1,18,True
+The Past Never Ends,Mystery,56.5,4,16,True
+A Murder in Time,Mystery,16.64,1,16,True
+The Murder of Roger Ackroyd (Hercule Poirot #4),Mystery,44.1,4,15,True
+The Last Mile (Amos Decker #2),Mystery,54.21,2,14,True
+That Darkness (Gardiner and Renner #1),Mystery,13.92,1,14,True
+Tastes Like Fear (DI Marnie Rome #3),Mystery,10.69,1,14,True
+A Time of Torment (Charlie Parker #14),Mystery,48.35,5,14,True
+A Study in Scarlet (Sherlock Holmes #1),Mystery,16.73,2,14,True
+Poisonous (Max Revere Novels #3),Mystery,26.8,3,12,True
+Murder at the 42nd Street Library (Raymond Ambler #1),Mystery,54.36,4,12,True
+Most Wanted,Mystery,35.28,3,12,True
+Hide Away (Eve Duncan #20),Mystery,11.84,1,12,True
+Boar Island (Anna Pigeon #19),Mystery,59.48,3,12,True
+The Widow,Mystery,27.26,2,11,True
+Playing with Fire,Mystery,13.71,3,11,True
+What Happened on Beale Street (Secrets of the South Mysteries #2),Mystery,25.37,5,7,True
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),Mystery,52.3,5,7,True
+Delivering the Truth (Quaker Midwife Mystery #1),Mystery,20.89,4,7,True
+The Mysterious Affair at Styles (Hercule Poirot #1),Mystery,24.8,4,6,True
+In the Woods (Dublin Murder Squad #1),Mystery,38.38,2,6,True
+The Silkworm (Cormoran Strike #2),Mystery,23.05,5,3,True
+The Exiled,Mystery,43.45,3,3,True
+The Cuckoo's Calling (Cormoran Strike #1),Mystery,19.21,1,3,True
+Extreme Prey (Lucas Davenport #26),Mystery,25.4,3,3,True
+Career of Evil (Cormoran Strike #3),Mystery,24.72,2,3,True
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),Mystery,57.7,4,1,True
+The Girl You Lost,Mystery,12.29,5,1,True
+The Girl In The Ice (DCI Erika Foster #1),Mystery,15.85,3,1,True
+Blood Defense (Samantha Brinkman #1),Mystery,20.3,3,1,True
+1st to Die (Women's Murder Club #1),Mystery,53.98,1,1,True
+Tipping the Velvet,Historical Fiction,53.74,1,20,True
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,Historical Fiction,29.69,3,16,True
+A Flight of Arrows (The Pathfinders #2),Historical Fiction,55.53,5,16,True
+The House by the Lake,Historical Fiction,36.95,1,15,True
+Mrs. Houdini,Historical Fiction,30.25,5,15,True
+The Marriage of Opposites,Historical Fiction,28.08,4,14,True
+Glory over Everything: Beyond The Kitchen House,Historical Fiction,45.84,3,14,True
+"Love, Lies and Spies",Historical Fiction,20.55,2,12,True
+A Paris Apartment,Historical Fiction,39.01,4,12,True
+Lilac Girls,Historical Fiction,17.28,2,11,True
+The Constant Princess (The Tudor Court #1),Historical Fiction,16.62,3,7,True
+The Invention of Wings,Historical Fiction,37.34,1,6,True
+World Without End (The Pillars of the Earth #2),Historical Fiction,32.97,4,5,True
+The Passion of Dolssa,Historical Fiction,28.32,5,4,True
+Girl With a Pearl Earring,Historical Fiction,26.77,1,4,True
+Voyager (Outlander #3),Historical Fiction,21.07,5,3,True
+The Red Tent,Historical Fiction,35.66,5,3,True
+The Last Painting of Sara de Vos,Historical Fiction,55.55,2,3,True
+The Guernsey Literary and Potato Peel Pie Society,Historical Fiction,49.53,1,3,True
+Girl in the Blue Coat,Historical Fiction,46.83,2,3,True
+Between Shades of Gray,Historical Fiction,20.79,5,3,True
+While You Were Mine,Historical Fiction,41.32,5,1,True
+The Secret Healer,Historical Fiction,34.56,3,1,True
+Starlark,Historical Fiction,25.83,3,1,True
+Lost Among the Living,Historical Fiction,27.7,4,1,True
+A Spy's Devotion (The Regency Spies of London #1),Historical Fiction,16.97,5,1,True
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Sequential Art,52.29,5,19,True
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),Sequential Art,16.28,1,16,True
+This One Summer,Sequential Art,19.49,4,16,True
+The Nameless City (The Nameless City #1),Sequential Art,38.16,4,16,True
+"Saga, Volume 5 (Saga (Collected Editions) #5)",Sequential Art,51.04,2,16,True
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",Sequential Art,50.4,3,16,True
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",Sequential Art,13.61,5,16,True
+"Pop Gun War, Volume 1: Gift",Sequential Art,18.97,1,16,True
+Patience,Sequential Art,10.16,3,16,True
+"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",Sequential Art,15.44,4,16,True
+orange: The Complete Collection 1 (orange: The Complete Collection #1),Sequential Art,48.41,1,16,True
+"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",Sequential Art,46.91,2,16,True
+"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",Sequential Art,45.61,3,16,True
+Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),Sequential Art,19.92,2,16,True
+"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",Sequential Art,29.17,2,16,True
+I am a Hero Omnibus Volume 1,Sequential Art,54.63,3,16,True
+"Giant Days, Vol. 2 (Giant Days #5-8)",Sequential Art,22.11,2,16,True
+Danganronpa Volume 1,Sequential Art,51.99,4,16,True
+"Codename Baboushka, Volume 1: The Conclave of Death",Sequential Art,36.72,4,16,True
+Camp Midnight,Sequential Art,17.08,4,16,True
+"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",Sequential Art,37.92,2,16,True
+The Shadow Hero (The Shadow Hero),Sequential Art,33.14,1,15,True
+"Fables, Vol. 1: Legends in Exile (Fables #1)",Sequential Art,41.62,4,15,True
+Batman: The Long Halloween (Batman),Sequential Art,36.5,2,15,True
+Batman: The Dark Knight Returns (Batman),Sequential Art,15.38,5,15,True
+"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",Sequential Art,37.34,4,14,True
+"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",Sequential Art,53.9,1,14,True
+Through the Woods,Sequential Art,25.38,2,14,True
+Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),Sequential Art,11.89,5,14,True
+"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",Sequential Art,35.43,4,14,True
+Robin War,Sequential Art,47.82,3,14,True
+"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",Sequential Art,25.48,2,14,True
+"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",Sequential Art,38.39,2,14,True
+Lowriders to the Center of the Earth (Lowriders in Space #2),Sequential Art,51.51,2,14,True
+El Deafo,Sequential Art,57.62,5,14,True
+Batman: Europa,Sequential Art,32.01,2,14,True
+Art Ops Vol. 1,Sequential Art,48.8,3,14,True
+"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",Sequential Art,10.9,2,14,True
+"Fruits Basket, Vol. 9 (Fruits Basket #9)",Sequential Art,33.95,4,9,True
+Roller Girl,Sequential Art,14.1,5,8,True
+"Fruits Basket, Vol. 7 (Fruits Basket #7)",Sequential Art,19.57,1,7,True
+"Fruits Basket, Vol. 6 (Fruits Basket #6)",Sequential Art,20.96,4,6,True
+"Death Note, Vol. 6: Give-and-Take (Death Note #6)",Sequential Art,36.39,3,6,True
+"Fruits Basket, Vol. 5 (Fruits Basket #5)",Sequential Art,16.33,1,5,True
+"Death Note, Vol. 5: Whiteout (Death Note #5)",Sequential Art,52.41,1,5,True
+"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",Sequential Art,27.88,2,4,True
+"Fruits Basket, Vol. 4 (Fruits Basket #4)",Sequential Art,50.44,4,4,True
+"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",Sequential Art,14.41,3,3,True
+"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",Sequential Art,55.55,5,3,True
+"Saga, Volume 3 (Saga (Collected Editions) #3)",Sequential Art,21.57,5,3,True
+Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),Sequential Art,43.63,3,3,True
+Persepolis: The Story of a Childhood (Persepolis #1-2),Sequential Art,39.13,1,3,True
+Original Fake,Sequential Art,31.45,3,3,True
+"Grayson, Vol 3: Nemesis (Grayson #3)",Sequential Art,42.72,1,3,True
+"Fruits Basket, Vol. 3 (Fruits Basket #3)",Sequential Art,45.17,2,3,True
+"Black Butler, Vol. 1 (Black Butler #1)",Sequential Art,49.31,1,3,True
+Awkward,Sequential Art,38.02,2,3,True
+"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",Sequential Art,54.81,1,2,True
+"Saga, Volume 2 (Saga (Collected Editions) #2)",Sequential Art,11.75,3,2,True
+"Fruits Basket, Vol. 2 (Fruits Basket #2)",Sequential Art,11.64,5,2,True
+"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",Sequential Art,18.51,4,1,True
+"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",Sequential Art,36.52,2,1,True
+"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",Sequential Art,54.12,3,1,True
+The Complete Maus (Maus #1-2),Sequential Art,10.64,3,1,True
+"Skip Beat!, Vol. 01 (Skip Beat! #1)",Sequential Art,42.12,3,1,True
+"Saga, Volume 1 (Saga (Collected Editions) #1)",Sequential Art,28.48,1,1,True
+"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",Sequential Art,46.96,5,1,True
+"Paper Girls, Vol. 1 (Paper Girls #1-5)",Sequential Art,21.71,4,1,True
+"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",Sequential Art,29.87,3,1,True
+"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",Sequential Art,39.39,4,1,True
+"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",Sequential Art,45.24,3,1,True
+"Giant Days, Vol. 1 (Giant Days #1-4)",Sequential Art,56.76,4,1,True
+"Fruits Basket, Vol. 1 (Fruits Basket #1)",Sequential Art,40.28,5,1,True
+"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",Sequential Art,34.65,5,1,True
+"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",Sequential Art,57.06,4,1,True
+The Secret Garden,Classics,15.08,4,5,True
+The Metamorphosis,Classics,28.58,1,5,True
+The Pilgrim's Progress,Classics,50.26,2,4,True
+The Hound of the Baskervilles (Sherlock Holmes #5),Classics,14.82,2,4,True
+Little Women (Little Women #1),Classics,28.07,4,4,True
+Gone with the Wind,Classics,32.49,3,4,True
+Candide,Classics,58.63,3,4,True
+Animal Farm,Classics,57.22,3,4,True
+Wuthering Heights,Classics,17.73,3,3,True
+The Picture of Dorian Gray,Classics,29.7,2,3,True
+The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),Classics,26.78,4,3,True
+Beowulf,Classics,38.35,2,3,True
+And Then There Were None,Classics,35.01,2,3,True
+The Story of Hong Gildong,Classics,43.19,4,1,True
+The Little Prince,Classics,45.42,2,1,True
+Sense and Sensibility,Classics,37.46,1,1,True
+Of Mice and Men,Classics,47.11,2,1,True
+Emma,Classics,32.93,2,1,True
+Alice in Wonderland (Alice's Adventures in Wonderland #1),Classics,55.53,1,1,True
+Sophie's World,Philosophy,15.94,5,18,True
+The Death of Humanity: and the Case for Life,Philosophy,58.11,4,16,True
+The Stranger,Philosophy,17.44,4,15,True
+Proofs of God: Classical Arguments from Tertullian to Barth,Philosophy,54.21,1,8,True
+Kierkegaard: A Christian Missionary to Christians,Philosophy,47.13,1,8,True
+"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",Philosophy,29.93,5,7,True
+Critique of Pure Reason,Philosophy,20.75,1,5,True
+"Run, Spot, Run: The Ethics of Keeping Pets",Philosophy,20.02,1,2,True
+The Nicomachean Ethics,Philosophy,36.34,1,1,True
+Meditations,Philosophy,25.89,2,1,True
+Beyond Good and Evil,Philosophy,43.38,1,1,True
+Chase Me (Paris Nights #2),Romance,25.27,5,19,True
+Black Dust,Romance,34.53,5,19,True
+Her Backup Boyfriend (The Sorensen Family #1),Romance,33.97,1,16,True
+First and First (Five Boroughs #3),Romance,15.97,4,16,True
+Fifty Shades Darker (Fifty Shades #2),Romance,21.96,1,16,True
+The Wedding Dress,Romance,24.12,1,15,True
+Suddenly in Love (Lake Haven #1),Romance,55.99,2,15,True
+Something More Than This,Romance,16.24,4,15,True
+Doing It Over (Most Likely To #1),Romance,35.61,3,15,True
+The Wedding Pact (The O'Malleys #2),Romance,32.61,3,14,True
+Hold Your Breath (Search and Rescue #1),Romance,28.82,1,14,True
+Dirty (Dive Bar #1),Romance,40.83,4,12,True
+Take Me Home Tonight (Rock Star Romance #3),Romance,53.98,3,11,True
+Off the Hook (Fishing for Trouble #1),Romance,47.67,3,11,True
+A Gentleman's Position (Society of Gentlemen #3),Romance,14.75,5,11,True
+"Sit, Stay, Love",Romance,20.9,3,7,True
+A Girl's Guide to Moving On (New Beginnings #2),Romance,31.3,1,5,True
+The Perfect Play (Play by Play #1),Romance,59.99,3,4,True
+Dark Lover (Black Dagger Brotherhood #1),Romance,12.87,1,4,True
+Changing the Game (Play by Play #2),Romance,13.38,3,4,True
+A Walk to Remember,Romance,56.43,1,4,True
+The Purest Hook (Second Circle Tattoos #3),Romance,12.25,1,3,True
+The Obsession,Romance,45.43,1,3,True
+Reservations for Two,Romance,11.1,3,3,True
+Best of My Love (Fool's Gold #20),Romance,27.41,2,3,True
+Where Lightning Strikes (Bleeding Stars #3),Romance,39.77,3,1,True
+This One Moment (Pushing Limits #1),Romance,48.71,1,1,True
+"Rhythm, Chord & Malykhin",Romance,28.34,2,1,True
+My Perfect Mistake (Over the Top #1),Romance,38.92,2,1,True
+Listen to Me (Fusion #1),Romance,58.99,3,1,True
+Imperfect Harmony,Romance,34.74,4,1,True
+Fighting Fate (Fighting #6),Romance,39.24,3,1,True
+Deep Under (Walker Security #1),Romance,47.09,5,1,True
+Charity's Cross (Charles Towne Belles #4),Romance,41.24,1,1,True
+Bounty (Colorado Mountain #7),Romance,37.26,4,1,True
+I Had a Nice Time And Other Lies...: How to find love & sh*t like that,Womens Fiction,57.36,4,15,True
+Will You Won't You Want Me?,Womens Fiction,13.86,3,12,True
+Keep Me Posted,Womens Fiction,20.46,4,11,True
+Grey (Fifty Shades #4),Womens Fiction,48.49,4,11,True
+Meternity,Womens Fiction,43.58,3,7,True
+Some Women,Womens Fiction,13.73,5,4,True
+Shopaholic Ties the Knot (Shopaholic #3),Womens Fiction,48.39,5,4,True
+Can You Keep a Secret?,Womens Fiction,21.94,1,4,True
+Twenties Girl,Womens Fiction,42.8,2,3,True
+The Undomestic Goddess,Womens Fiction,45.75,4,3,True
+The Nanny Diaries (Nanny #1),Womens Fiction,52.53,5,3,True
+The Devil Wears Prada (The Devil Wears Prada #1),Womens Fiction,44.29,1,3,True
+Something Borrowed (Darcy & Rachel #1),Womens Fiction,48.96,5,3,True
+Something Blue (Darcy & Rachel #2),Womens Fiction,54.62,1,3,True
+I've Got Your Number,Womens Fiction,19.69,1,3,True
+The Edge of Reason (Bridget Jones #2),Womens Fiction,19.18,4,1,True
+Bridget Jones's Diary (Bridget Jones #1),Womens Fiction,29.82,1,1,True
+Soumission,Fiction,50.1,1,20,True
+Private Paris (Private #10),Fiction,47.61,5,17,True
+"We Love You, Charlie Freeman",Fiction,50.27,5,16,True
+Thirst,Fiction,17.27,5,16,True
+The Murder That Never Was (Forensic Instincts #5),Fiction,54.11,3,16,True
+Tuesday Nights in 1980,Fiction,21.04,2,15,True
+The Vacationers,Fiction,42.15,4,15,True
+The Regional Office Is Under Attack!,Fiction,51.36,5,15,True
+Finders Keepers (Bill Hodges Trilogy #2),Fiction,53.53,5,15,True
+The Time Keeper,Fiction,27.88,5,14,True
+The Testament of Mary,Fiction,52.67,4,14,True
+The First Hostage (J.B. Collins #2),Fiction,25.85,3,14,True
+Take Me with You,Fiction,45.21,3,14,True
+Still Life with Bread Crumbs,Fiction,26.41,3,14,True
+Shtum,Fiction,55.84,4,14,True
+My Name Is Lucy Barton,Fiction,41.56,1,14,True
+My Mrs. Brown,Fiction,24.48,3,14,True
+Mr. Mercedes (Bill Hodges Trilogy #1),Fiction,28.9,1,14,True
+I Am Pilgrim (Pilgrim #1),Fiction,10.6,4,14,True
+Eligible (The Austen Project #4),Fiction,27.09,3,14,True
+Eight Hundred Grapes,Fiction,14.39,4,14,True
+Dear Mr. Knightley,Fiction,11.21,5,14,True
+Cometh the Hour (The Clifton Chronicles #6),Fiction,25.01,3,14,True
+Balloon Animals,Fiction,17.03,3,14,True
+A Man Called Ove,Fiction,39.72,1,14,True
+The Silent Sister (Riley MacPherson #1),Fiction,46.29,5,12,True
+The Dinner Party,Fiction,56.54,2,12,True
+The Improbability of Love,Fiction,59.45,1,11,True
+Mothering Sunday,Fiction,13.34,2,11,True
+Lies and Other Acts of Love,Fiction,45.14,1,11,True
+Daredevils,Fiction,16.34,3,11,True
+11/22/63,Fiction,48.48,3,11,True
+The Shack,Fiction,28.03,1,9,True
+The High Mountains of Portugal,Fiction,51.15,1,8,True
+Miller's Valley,Fiction,58.54,2,8,True
+Hystopia: A Novel,Fiction,21.96,4,8,True
+The Bourne Identity (Jason Bourne #1),Fiction,42.78,4,7,True
+Sister Dear,Fiction,40.2,4,7,True
+Memoirs of a Geisha,Fiction,49.67,3,7,True
+Me Before You (Me Before You #1),Fiction,19.02,1,6,True
+Deception Point,Fiction,40.32,4,6,True
+The Little Paris Bookshop,Fiction,24.73,3,5,True
+The Firm,Fiction,45.56,3,5,True
+The Expatriates,Fiction,44.58,2,5,True
+Siddhartha,Fiction,34.22,5,5,True
+Last One Home (New Beginnings #1),Fiction,59.98,3,5,True
+Digital Fortress,Fiction,58.0,5,5,True
+Atlas Shrugged,Fiction,26.58,5,4,True
+Three-Martini Lunch,Fiction,23.21,3,3,True
+The Nightingale,Fiction,26.26,4,3,True
+The Infinities,Fiction,27.41,1,3,True
+The Husband's Secret,Fiction,52.51,5,3,True
+The Da Vinci Code (Robert Langdon #2),Fiction,22.96,2,3,True
+The Art of Fielding,Fiction,22.1,1,3,True
+Lila (Gilead #3),Fiction,12.47,3,3,True
+Jurassic Park (Jurassic Park #1),Fiction,44.97,1,3,True
+Inferno (Robert Langdon #4),Fiction,41.0,5,3,True
+Crazy Rich Asians (Crazy Rich Asians #1),Fiction,49.13,5,3,True
+Big Little Lies,Fiction,22.11,1,3,True
+The Course of Love,Fiction,16.78,3,2,True
+When I'm Gone,Fiction,51.96,3,1,True
+The Silent Wife,Fiction,12.34,5,1,True
+The Bette Davis Club,Fiction,30.66,3,1,True
+Kitchens of the Great Midwest,Fiction,57.2,5,1,True
+Bright Lines,Fiction,39.07,5,1,True
+Birdsong: A Story in Pictures,Childrens,54.64,3,19,True
+The Bear and the Piano,Childrens,36.89,1,18,True
+The Secret of Dreadwillow Carse,Childrens,56.13,1,16,True
+The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,Childrens,58.08,4,15,True
+Little Red,Childrens,13.47,3,15,True
+Walt Disney's Alice in Wonderland,Childrens,12.96,5,14,True
+Twenty Yawns,Childrens,22.08,2,14,True
+Rain Fish,Childrens,23.57,3,14,True
+Once Was a Time,Childrens,18.28,2,14,True
+Luis Paints the World,Childrens,53.95,3,14,True
+Nap-a-Roo,Childrens,25.08,1,9,True
+The Whale,Childrens,35.96,4,7,True
+"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",Childrens,52.87,3,7,True
+Raymie Nightingale,Childrens,34.41,2,7,True
+Playing from the Heart,Childrens,32.38,1,7,True
+Maybe Something Beautiful: How Art Transformed a Neighborhood,Childrens,22.54,1,5,True
+The Wild Robot,Childrens,56.07,3,3,True
+The Thing About Jellyfish,Childrens,48.77,1,3,True
+The Lonely Ones,Childrens,43.59,5,3,True
+The Day the Crayons Came Home (Crayons),Childrens,26.33,5,3,True
+The Cat in the Hat (Beginner Books B-1),Childrens,16.26,2,3,True
+Red: The True Story of Red Riding Hood,Childrens,28.54,3,3,True
+Horrible Bear!,Childrens,37.52,2,3,True
+Green Eggs and Ham (Beginner Books B-16),Childrens,10.79,4,3,True
+Counting Thyme,Childrens,10.62,1,3,True
+Are We There Yet?,Childrens,10.66,3,3,True
+Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),Childrens,52.88,4,2,True
+Matilda,Childrens,28.34,1,1,True
+Charlie and the Chocolate Factory (Charlie Bucket #1),Childrens,22.85,3,1,True
+"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",Religion,37.97,2,16,True
+You Are What You Love: The Spiritual Power of Habit,Religion,21.87,4,15,True
+God: The Most Unpleasant Character in All Fiction,Religion,30.03,5,14,True
+The Book of Mormon,Religion,24.57,3,9,True
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Religion,27.62,1,4,True
+The Bhagavad Gita,Religion,57.49,3,1,True
+Choosing Our Religion: The Spiritual Lives of America's Nones,Religion,28.42,4,1,True
+Worlds Elsewhere: Journeys Around Shakespeare’s Globe,Nonfiction,40.3,5,18,True
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Nonfiction,31.05,3,18,True
+Reasons to Stay Alive,Nonfiction,26.41,2,17,True
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,Nonfiction,23.11,5,17,True
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Nonfiction,44.18,4,16,True
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,Nonfiction,31.12,3,16,True
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Nonfiction,16.77,3,16,True
+The Gutsy Girl: Escapades for Your Life of Epic Adventure,Nonfiction,37.13,1,16,True
+The Electric Pencil: Drawings from Inside State Hospital No. 3,Nonfiction,56.06,1,16,True
+Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,Nonfiction,41.83,4,16,True
+Reskilling America: Learning to Labor in the Twenty-First Century,Nonfiction,19.83,2,16,True
+In the Country We Love: My Family Divided,Nonfiction,22.0,4,16,True
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Nonfiction,54.35,2,16,True
+Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,Nonfiction,29.14,5,16,True
+Algorithms to Live By: The Computer Science of Human Decisions,Nonfiction,30.81,1,16,True
+The Power of Now: A Guide to Spiritual Enlightenment,Nonfiction,43.54,2,15,True
+The Omnivore's Dilemma: A Natural History of Four Meals,Nonfiction,38.21,2,15,True
+The Genius of Birds,Nonfiction,17.24,1,15,True
+The Artist's Way: A Spiritual Path to Higher Creativity,Nonfiction,38.49,5,15,True
+So You've Been Publicly Shamed,Nonfiction,12.23,2,15,True
+"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Nonfiction,19.43,3,15,True
+Big Magic: Creative Living Beyond Fear,Nonfiction,30.8,3,15,True
+Becoming Wise: An Inquiry into the Mystery and Art of Living,Nonfiction,27.43,2,15,True
+Agnostic: A Spirited Manifesto,Nonfiction,12.51,5,15,True
+Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,Nonfiction,38.2,4,14,True
+What's It Like in Space?: Stories from Astronauts Who've Been There,Nonfiction,19.6,2,14,True
+The Year of Magical Thinking,Nonfiction,43.04,2,14,True
+The Literature Book (Big Ideas Simply Explained),Nonfiction,17.43,3,14,True
+The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,Nonfiction,15.77,1,14,True
+Swell: A Year of Waves,Nonfiction,45.58,1,14,True
+No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,Nonfiction,21.95,2,14,True
+Looking for Lovely: Collecting the Moments that Matter,Nonfiction,29.14,5,14,True
+Let It Out: A Journey Through Journaling,Nonfiction,26.79,5,14,True
+Hamilton: The Revolution,Nonfiction,58.79,3,14,True
+"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",Nonfiction,15.06,4,14,True
+"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",Nonfiction,51.75,5,14,True
+Buying In: The Secret Dialogue Between What We Buy and Who We Are,Nonfiction,37.8,4,14,True
+Brain on Fire: My Month of Madness,Nonfiction,49.32,5,14,True
+Abstract City,Nonfiction,56.37,5,14,True
+13 Hours: The Inside Account of What Really Happened In Benghazi,Nonfiction,27.06,1,13,True
+The Lonely City: Adventures in the Art of Being Alone,Nonfiction,33.26,2,12,True
+The Diary of a Young Girl,Nonfiction,59.9,3,12,True
+Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,Nonfiction,21.21,3,12,True
+Furiously Happy: A Funny Book About Horrible Things,Nonfiction,41.46,4,12,True
+"The Sleep Revolution: Transforming Your Life, One Night at a Time",Nonfiction,11.68,4,11,True
+"Mother, Can You Not?",Nonfiction,16.89,5,11,True
+A Mother's Reckoning: Living in the Aftermath of Tragedy,Nonfiction,19.53,3,11,True
+"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",Nonfiction,24.57,2,10,True
+Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,Nonfiction,35.92,2,9,True
+"Zero to One: Notes on Startups, or How to Build the Future",Nonfiction,34.06,3,8,True
+Why Not Me?,Nonfiction,17.76,1,8,True
+When Breath Becomes Air,Nonfiction,39.36,2,8,True
+"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",Nonfiction,28.45,4,8,True
+Smarter Faster Better: The Secrets of Being Productive in Life and Business,Nonfiction,38.89,5,8,True
+Rising Strong,Nonfiction,21.82,3,8,True
+Man's Search for Meaning,Nonfiction,29.48,3,8,True
+"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",Nonfiction,25.06,2,8,True
+Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,Nonfiction,12.55,3,8,True
+I Will Find You,Nonfiction,44.21,1,8,True
+Brazen: The Courage to Find the You That's Been Hiding,Nonfiction,19.22,2,8,True
+Between the World and Me,Nonfiction,56.91,4,8,True
+Being Mortal: Medicine and What Matters in the End,Nonfiction,55.06,4,8,True
+"A Murder Over a Girl: Justice, Gender, Junior High",Nonfiction,13.2,3,8,True
+For the Love: Fighting for Grace in a World of Impossible Standards,Nonfiction,45.13,3,7,True
+Finding God in the Ruins: How God Redeems Pain,Nonfiction,46.64,2,7,True
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Nonfiction,59.45,4,6,True
+In Cold Blood,Nonfiction,49.98,4,6,True
+"Girl, Interrupted",Nonfiction,42.14,3,6,True
+Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,Nonfiction,48.67,2,5,True
+Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,Nonfiction,25.15,4,5,True
+My Mother Was Nuts,Nonfiction,31.63,4,5,True
+"Data, A Love Story: How I Gamed Online Dating to Meet My Match",Nonfiction,32.35,3,5,True
+The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,Nonfiction,38.71,3,4,True
+The Gunning of America: Business and the Making of American Gun Culture,Nonfiction,16.81,4,4,True
+The Geography of Bliss: One Grump's Search for the Happiest Places in the World,Nonfiction,28.23,2,4,True
+God Is Not Great: How Religion Poisons Everything,Nonfiction,27.8,1,4,True
+We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,Nonfiction,31.95,3,3,True
+Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,Nonfiction,50.66,3,3,True
+"Unstuffed: Decluttering Your Home, Mind, and Soul",Nonfiction,58.09,1,3,True
+Under the Banner of Heaven: A Story of Violent Faith,Nonfiction,30.0,1,3,True
+"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",Nonfiction,53.51,1,3,True
+The Name of God is Mercy,Nonfiction,37.25,2,3,True
+Stiff: The Curious Lives of Human Cadavers,Nonfiction,36.74,3,3,True
+Spilled Milk: Based on a True Story,Nonfiction,49.51,1,3,True
+"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",Nonfiction,41.67,4,3,True
+Outliers: The Story of Success,Nonfiction,14.16,1,3,True
+Notes from a Small Island (Notes From a Small Island #1),Nonfiction,40.17,1,3,True
+Night (The Night Trilogy #1),Nonfiction,13.51,1,3,True
+"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",Nonfiction,57.83,1,3,True
+Letter to a Christian Nation,Nonfiction,22.2,1,3,True
+Let's Pretend This Never Happened: A Mostly True Memoir,Nonfiction,45.11,1,3,True
+It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,Nonfiction,42.38,1,3,True
+Into the Wild,Nonfiction,56.7,5,3,True
+"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Nonfiction,28.85,3,3,True
+I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Nonfiction,28.88,2,3,True
+Gratitude,Nonfiction,26.66,5,3,True
+Disrupted: My Misadventure in the Start-Up Bubble,Nonfiction,15.28,5,3,True
+Brave Enough,Nonfiction,51.32,5,3,True
+"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Nonfiction,27.35,2,3,True
+Blink: The Power of Thinking Without Thinking,Nonfiction,21.74,5,3,True
+Black Flags: The Rise of ISIS,Nonfiction,40.87,1,3,True
+Are We Smart Enough to Know How Smart Animals Are?,Nonfiction,56.58,1,3,True
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Nonfiction,30.48,4,3,True
+"The Suffragettes (Little Black Classics, #96)",Nonfiction,11.89,2,2,True
+Kindle Paperwhite User's Guide,Nonfiction,34.0,3,2,True
+H is for Hawk,Nonfiction,57.42,5,2,True
+Travels with Charley: In Search of America,Nonfiction,57.82,5,1,True
+The Tumor,Nonfiction,41.56,5,1,True
+The End of the Jesus Era (An Investigation #1),Nonfiction,14.4,1,1,True
+"Eat, Pray, Love",Nonfiction,51.32,3,1,True
+Rip it Up and Start Again,Music,35.02,5,19,True
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Music,57.25,3,19,True
+How Music Works,Music,37.32,2,19,True
+Love Is a Mix Tape (Music #1),Music,18.03,1,14,True
+Please Kill Me: The Uncensored Oral History of Punk,Music,31.19,4,8,True
+Kill 'Em and Leave: Searching for James Brown and the American Soul,Music,45.05,5,8,True
+"Chronicles, Vol. 1",Music,52.6,2,7,True
+This Is Your Brain on Music: The Science of a Human Obsession,Music,38.4,1,5,True
+"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",Music,12.36,3,4,True
+No One Here Gets Out Alive,Music,20.02,5,4,True
+Life,Music,31.58,5,2,True
+Old Records Never Die: One Man's Quest for His Vinyl and His Past,Music,55.66,2,1,True
+Forever Rockers (The Rocker #12),Music,28.8,3,1,True
+Mesaerion: The Best Science Fiction Stories 1800-1849,Science Fiction,37.59,1,19,True
+Join,Science Fiction,35.67,5,16,True
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",Science Fiction,43.3,4,15,True
+The Project,Science Fiction,10.65,1,15,True
+Soft Apocalypse,Science Fiction,26.12,2,15,True
+Sleeping Giants (Themis Files #1),Science Fiction,48.74,1,11,True
+Arena,Science Fiction,21.36,4,11,True
+Foundation (Foundation (Publication Order) #1),Science Fiction,32.42,1,5,True
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),Science Fiction,10.92,1,3,True
+Ready Player One,Science Fiction,19.07,4,3,True
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",Science Fiction,33.26,2,3,True
+Dune (Dune #1),Science Fiction,54.86,1,3,True
+Do Androids Dream of Electric Sheep? (Blade Runner #1),Science Fiction,51.48,1,3,True
+Three Wishes (River of Time: California #1),Science Fiction,44.18,2,1,True
+The Last Girl (The Dominion Trilogy #1),Science Fiction,36.26,2,1,True
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),Science Fiction,34.96,4,1,True
+The Book of Basketball: The NBA According to The Sports Guy,Sports And Games,44.84,5,3,True
+"Friday Night Lights: A Town, a Team, and a Dream",Sports And Games,51.22,3,3,True
+Sugar Rush (Offensive Line #2),Sports And Games,24.42,1,2,True
+Settling the Score (The Summer Games #1),Sports And Games,44.91,2,1,True
+Icing (Aces Hockey #2),Sports And Games,40.44,4,1,True
+Unicorn Tracks,Fantasy,18.78,3,16,True
+"Saga, Volume 6 (Saga (Collected Editions) #6)",Fantasy,25.02,3,16,True
+Princess Between Worlds (Wide-Awake Princess #5),Fantasy,13.34,5,16,True
+Masks and Shadows,Fantasy,56.4,2,16,True
+Crown of Midnight (Throne of Glass #2),Fantasy,43.29,3,16,True
+"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",Fantasy,28.09,2,16,True
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),Fantasy,52.37,1,16,True
+Throne of Glass (Throne of Glass #1),Fantasy,35.07,3,15,True
+The Glittering Court (The Glittering Court #1),Fantasy,44.28,1,15,True
+Hollow City (Miss Peregrine’s Peculiar Children #2),Fantasy,42.98,1,15,True
+The Star-Touched Queen,Fantasy,46.02,5,14,True
+The Hidden Oracle (The Trials of Apollo #1),Fantasy,52.26,2,14,True
+The Bane Chronicles (The Bane Chronicles #1-11),Fantasy,44.73,4,14,True
+Island of Dragons (Unwanteds #7),Fantasy,29.65,1,14,True
+Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),Fantasy,37.51,5,14,True
+City of Glass (The Mortal Instruments #3),Fantasy,56.02,4,14,True
+Searching for Meaning in Gailana,Fantasy,38.73,1,13,True
+The Star-Touched Queen,Fantasy,32.3,5,12,True
+A Shard of Ice (The Black Symphony Saga #1),Fantasy,56.63,3,9,True
+King's Folly (The Kinsman Chronicles #1),Fantasy,39.61,5,7,True
+Every Heart a Doorway (Every Heart A Doorway #1),Fantasy,12.16,5,7,True
+A Gathering of Shadows (Shades of Magic #2),Fantasy,44.81,4,7,True
+The Raven Boys (The Raven Cycle #1),Fantasy,57.74,4,5,True
+The False Prince (The Ascendance Trilogy #1),Fantasy,56.0,5,5,True
+Tell the Wind and Fire,Fantasy,45.51,3,5,True
+A Feast for Crows (A Song of Ice and Fire #4),Fantasy,17.21,4,5,True
+The Demonists (Demonist #1),Fantasy,52.11,2,4,True
+The Beast (Black Dagger Brotherhood #14),Fantasy,46.08,5,4,True
+Paper and Fire (The Great Library #2),Fantasy,49.45,5,4,True
+Harry Potter and the Order of the Phoenix (Harry Potter #5),Fantasy,31.63,4,4,True
+Harry Potter and the Half-Blood Prince (Harry Potter #6),Fantasy,48.75,5,4,True
+Harry Potter and the Chamber of Secrets (Harry Potter #2),Fantasy,14.74,1,4,True
+The Rose & the Dagger (The Wrath and the Dawn #2),Fantasy,58.64,4,3,True
+Soldier (Talon #3),Fantasy,24.72,2,3,True
+Midnight Riot (Peter Grant/ Rivers of London - books #1),Fantasy,55.46,2,3,True
+Heir to the Sky,Fantasy,44.07,4,3,True
+Eragon (The Inheritance Cycle #1),Fantasy,43.87,3,3,True
+Darkfever (Fever #1),Fantasy,56.02,1,3,True
+Ash,Fantasy,22.06,4,3,True
+A Storm of Swords (A Song of Ice and Fire #3),Fantasy,31.22,2,3,True
+Vampire Girl (Vampire Girl #1),Fantasy,53.82,2,1,True
+The Silent Twin (Detective Jennifer Knight #3),Fantasy,36.25,3,1,True
+The Mirror & the Maze (The Wrath and the Dawn #1.5),Fantasy,29.38,1,1,True
+Sister Sable (The Mad Queen #1),Fantasy,13.33,3,1,True
+Shadow Rites (Jane Yellowrock #10),Fantasy,21.72,4,1,True
+Origins (Alphas 0.5),Fantasy,28.99,1,1,True
+One Second (Seven #7),Fantasy,52.94,2,1,True
+Myriad (Prentor #1),Fantasy,58.75,4,1,True
+Without Borders (Wanderlove #1),New Adult,45.07,2,16,True
+The Mistake (Off-Campus #2),New Adult,43.29,3,15,True
+The Matchmaker's Playbook (Wingmen Inc. #1),New Adult,55.85,1,15,True
+The Hook Up (Game On #1),New Adult,36.29,5,1,True
+Shameless,New Adult,58.35,3,1,True
+Off Sides (Off #1),New Adult,39.45,5,1,True
+The Requiem Red,Young Adult,22.65,1,19,True
+Set Me Free,Young Adult,17.46,5,19,True
+The Natural History of Us (The Fine Art of Pretending #2),Young Adult,45.22,3,16,True
+Obsidian (Lux #1),Young Adult,14.86,2,16,True
+Burning,Young Adult,28.81,3,16,True
+A Fierce and Subtle Poison,Young Adult,28.13,4,16,True
+Scarlett Epstein Hates It Here,Young Adult,43.55,5,15,True
+"Nightingale, Sing",Young Adult,38.28,1,15,True
+Library of Souls (Miss Peregrine’s Peculiar Children #3),Young Adult,48.56,5,15,True
+Frostbite (Vampire Academy #2),Young Adult,29.99,5,15,True
+Wild Swans,Young Adult,14.36,2,14,True
+Until Friday Night (The Field Party #1),Young Adult,46.31,2,14,True
+This Is Where It Ends,Young Adult,27.12,2,14,True
+The Darkest Lie,Young Adult,35.35,5,14,True
+My Kind of Crazy,Young Adult,40.36,1,14,True
+Don't Get Caught,Young Adult,55.35,1,14,True
+Catching Jordan (Hundred Oaks),Young Adult,50.83,3,14,True
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),Young Adult,58.14,4,14,True
+The Epidemic (The Program 0.6),Young Adult,14.44,5,12,True
+Stars Above (The Lunar Chronicles #4.5),Young Adult,48.05,2,12,True
+No Love Allowed (Dodge Cove #1),Young Adult,54.65,4,12,True
+"Exit, Pursued by a Bear",Young Adult,51.34,4,11,True
+The Alien Club,Young Adult,54.4,1,9,True
+Don't Forget Steven,Young Adult,33.23,1,9,True
+South of Sunshine,Young Adult,28.93,1,8,True
+My Life Next Door (My Life Next Door ),Young Adult,36.39,5,8,True
+Future Shock (Future Shock #1),Young Adult,55.65,5,8,True
+Nightstruck: A Novel,Young Adult,50.35,4,7,True
+Tell the Wolves I'm Home,Young Adult,50.96,2,6,True
+"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",Young Adult,47.31,4,5,True
+Where She Went (If I Stay #2),Young Adult,41.73,4,5,True
+Two Summers,Young Adult,14.64,1,5,True
+The Darkest Corners,Young Adult,11.33,5,5,True
+Tell Me Three Things,Young Adult,41.81,1,5,True
+Lola and the Boy Next Door (Anna and the French Kiss #2),Young Adult,23.63,4,5,True
+Kill the Boy Band,Young Adult,15.52,5,5,True
+Isla and the Happily Ever After (Anna and the French Kiss #3),Young Adult,48.13,5,5,True
+An Abundance of Katherines,Young Adult,10.0,5,5,True
+Harry Potter and the Prisoner of Azkaban (Harry Potter #3),Young Adult,24.17,4,4,True
+Walk the Edge (Thunder Road #2),Young Adult,32.36,3,3,True
+Two Boys Kissing,Young Adult,32.74,2,3,True
+The New Guy (and Other Senior Year Distractions),Young Adult,44.92,3,3,True
+"The Land of 10,000 Madonnas",Young Adult,29.64,4,3,True
+Scarlet (The Lunar Chronicles #2),Young Adult,14.57,4,3,True
+Legend (Legend #1),Young Adult,43.69,4,3,True
+Lady Renegades (Rebel Belle #3),Young Adult,53.04,5,3,True
+Golden (Heart of Dread #3),Young Adult,42.21,4,3,True
+Cinder (The Lunar Chronicles #1),Young Adult,26.09,1,3,True
+Boy Meets Boy,Young Adult,21.12,3,3,True
+Annie on My Mind,Young Adult,36.83,5,3,True
+New Moon (Twilight #2),Young Adult,12.86,4,2,True
+Girl Online On Tour (Girl Online #2),Young Adult,53.47,1,2,True
+The Haters,Young Adult,27.89,5,1,True
+The Art of Not Breathing,Young Adult,40.83,4,1,True
+The Most Perfect Thing: Inside (and Outside) a Bird's Egg,Science,42.96,4,16,True
+Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,Science,57.36,5,16,True
+Sorting the Beef from the Bull: The Science of Food Fraud Forensics,Science,44.74,4,14,True
+Tipping Point for Planet Earth: How Close Are We to the Edge?,Science,37.55,1,12,True
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Science,55.91,1,9,True
+Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,Science,28.41,1,8,True
+The Origin of Species,Science,10.01,4,7,True
+The Grand Design,Science,13.76,3,5,True
+Peak: Secrets from the New Science of Expertise,Science,16.28,2,5,True
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Science,13.03,4,3,True
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Science,57.35,5,3,True
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Science,25.83,2,3,True
+Seven Brief Lessons on Physics,Science,30.6,4,3,True
+The Selfish Gene,Science,29.45,1,1,True
+A Light in the Attic,Poetry,51.77,3,22,True
+The Black Maria,Poetry,52.15,1,19,True
+Shakespeare's Sonnets,Poetry,20.66,4,19,True
+Olio,Poetry,23.88,1,19,True
+You can't bury them all: Poems,Poetry,33.63,2,17,True
+Slow States of Collapse: Poems,Poetry,57.31,3,17,True
+Untitled Collection: Sabbath Poems 2014,Poetry,14.27,4,16,True
+Poems That Make Grown Women Cry,Poetry,14.19,4,15,True
+Night Sky with Exit Wounds,Poetry,41.05,1,15,True
+salt.,Poetry,46.78,4,14,True
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Poetry,50.89,5,14,True
+Out of Print: City Lights Spotlight No. 14,Poetry,53.64,5,8,True
+Les Fleurs du Mal,Poetry,29.04,5,8,True
+Howl and Other Poems,Poetry,40.45,2,8,True
+Leave This Song Behind: Teen Poetry at Its Best,Poetry,51.17,5,7,True
+The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),Poetry,15.42,5,6,True
+The Crossover,Poetry,38.77,4,5,True
+Booked,Poetry,17.49,5,5,True
+Twenty Love Poems and a Song of Despair,Poetry,30.95,4,1,True
+"Vampire Knight, Vol. 1 (Vampire Knight #1)",Paranormal,15.4,1,1,True
+Wall and Piece,Art,44.18,4,18,True
+Feathers: Displays of Brilliant Plumage,Art,49.05,3,14,True
+Art and Fear: Observations on the Perils (and Rewards) of Artmaking,Art,48.63,4,9,True
+The New Drawing on the Right Side of the Brain,Art,43.02,3,8,True
+History of Beauty,Art,10.29,4,8,True
+The Story of Art,Art,41.14,4,7,True
+The Art Book,Art,32.34,2,7,True
+Ways of Seeing,Art,39.51,5,1,True
+The Lucifer Effect: Understanding How Good People Turn Evil,Psychology,10.4,1,14,True
+The Golden Condom: And Other Essays on Love Lost and Found,Psychology,39.43,1,12,True
+It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,Psychology,56.27,3,11,True
+An Unquiet Mind: A Memoir of Moods and Madness,Psychology,21.3,3,6,True
+"Thinking, Fast and Slow",Psychology,21.14,1,3,True
+Civilization and Its Discontents,Psychology,59.95,2,3,True
+8 Keys to Mental Health Through Exercise,Psychology,31.04,1,3,True
+The Argonauts,Autobiography,10.93,2,15,True
+M Train,Autobiography,27.18,1,11,True
+Lab Girl,Autobiography,40.85,1,11,True
+Approval Junkie: Adventures in Caring Too Much,Autobiography,58.81,5,5,True
+Running with Scissors,Autobiography,12.91,4,3,True
+Me Talk Pretty One Day,Autobiography,57.6,2,3,True
+Lust & Wonder,Autobiography,11.87,2,3,True
+Life Without a Recipe,Autobiography,59.04,5,3,True
+A Heartbreaking Work of Staggering Genius,Autobiography,54.29,5,3,True
+Catastrophic Happiness: Finding Joy in Childhood's Messy Years,Parenting,37.35,2,3,True
+Fifty Shades Freed (Fifty Shades #3),Adult Fiction,15.36,5,3,True
+The Long Haul (Diary of a Wimpy Kid #9),Humor,44.07,1,14,True
+Old School (Diary of a Wimpy Kid #10),Humor,11.83,5,14,True
+I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,Humor,25.98,4,14,True
+"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Humor,14.75,5,14,True
+Dress Your Family in Corduroy and Denim,Humor,43.68,3,9,True
+Toddlers Are A**holes: It's Not Your Fault,Humor,25.55,1,7,True
+When You Are Engulfed in Flames,Humor,30.89,5,3,True
+Naked,Humor,31.69,3,3,True
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Humor,55.5,5,3,True
+Holidays on Ice,Humor,51.07,2,3,True
+Security,Horror,39.25,2,16,True
+Follow You Home,Horror,21.36,1,15,True
+The Loney,Horror,23.4,1,14,True
+Pet Sematary,Horror,10.56,3,14,True
+Doctor Sleep (The Shining #2),Horror,40.12,2,14,True
+Psycho: Sanitarium (Psycho #1.5),Horror,36.97,5,12,True
+Can You Keep a Secret? (Fear Street Relaunch #4),Horror,48.64,1,12,True
+Red Dragon (Hannibal Lecter #1),Horror,23.37,3,5,True
+Dracula the Un-Dead,Horror,35.63,5,5,True
+Night Shift (Night Shift #1-20),Horror,12.75,4,4,True
+Needful Things,Horror,47.51,4,4,True
+Misery,Horror,34.79,2,4,True
+It,Horror,25.01,3,4,True
+'Salem's Lot,Horror,49.56,4,4,True
+The Stand,Horror,57.86,2,3,True
+The Girl with All the Gifts,Horror,49.47,3,3,True
+House of Leaves,Horror,54.89,1,3,True
+Sapiens: A Brief History of Humankind,History,54.23,5,20,True
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",History,25.52,1,16,True
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,History,19.73,1,16,True
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",History,36.28,2,16,True
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,History,59.64,1,15,True
+Zealot: The Life and Times of Jesus of Nazareth,History,24.7,3,14,True
+A Distant Mirror: The Calamitous 14th Century,History,14.58,3,14,True
+1491: New Revelations of the Americas Before Columbus,History,21.8,3,14,True
+Brilliant Beacons: A History of the American Lighthouse,History,11.45,3,8,True
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",History,44.48,5,8,True
+A Short History of Nearly Everything,History,52.4,5,7,True
+The Rise and Fall of the Third Reich: A History of Nazi Germany,History,39.67,2,6,True
+Catherine the Great: Portrait of a Woman,History,58.55,4,6,True
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,History,42.91,5,5,True
+The Hiding Place,History,55.91,4,5,True
+America's War for the Greater Middle East: A Military History,History,51.22,2,5,True
+The Guns of August,History,14.54,2,3,True
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",History,43.7,2,3,True
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Food And Drink,30.52,3,19,True
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Food And Drink,56.41,1,16,True
+My Paris Kitchen: Recipes and Stories,Food And Drink,33.37,2,16,True
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",Food And Drink,14.02,4,16,True
+"Layered: Baking, Building, and Styling Spectacular Cakes",Food And Drink,40.11,1,16,True
+The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,Food And Drink,37.34,5,15,True
+The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,Food And Drink,37.6,2,15,True
+The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,Food And Drink,41.25,1,15,True
+"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",Food And Drink,42.16,3,15,True
+The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,Food And Drink,28.77,3,14,True
+"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",Food And Drink,19.55,1,14,True
+Barefoot Contessa Back to Basics,Food And Drink,28.01,1,14,True
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,Food And Drink,50.62,5,14,True
+My Kitchen Year: 136 Recipes That Saved My Life,Food And Drink,11.53,2,13,True
+Everyday Italian: 125 Simple and Delicious Recipes,Food And Drink,20.1,5,12,True
+"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",Food And Drink,38.77,1,12,True
+Cravings: Recipes for What You Want to Eat,Food And Drink,20.5,3,11,True
+"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",Food And Drink,12.34,4,9,True
+32 Yolks,Food And Drink,53.63,2,8,True
+"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",Food And Drink,11.38,5,7,True
+How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),Food And Drink,46.01,4,7,True
+How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,Food And Drink,28.25,2,7,True
+The Barefoot Contessa Cookbook,Food And Drink,59.92,5,6,True
+Better Homes and Gardens New Cook Book,Food And Drink,39.61,3,6,True
+The Power Greens Cookbook: 140 Delicious Superfood Recipes,Food And Drink,11.05,5,5,True
+Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,Food And Drink,24.91,5,5,True
+Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,Food And Drink,13.66,2,3,True
+The Smitten Kitchen Cookbook,Food And Drink,23.59,1,3,True
+"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",Food And Drink,34.32,3,3,True
+Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,Food And Drink,33.14,3,3,True
+Redeeming Love,Christian Fiction,20.47,5,15,True
+Close to You,Christian Fiction,49.46,4,15,True
+Shadows of the Past (Logan Point #1),Christian Fiction,39.67,5,8,True
+Like Never Before (Walker Family #2),Christian Fiction,28.77,2,7,True
+Counted With the Stars (Out from Egypt #1),Christian Fiction,17.97,5,7,True
+If I Run (If I Run #1),Christian Fiction,49.97,4,3,True
+The Dirty Little Secrets of Getting Your Dream Job,Business,33.34,4,19,True
+The Third Wave: An Entrepreneur’s Vision of the Future,Business,12.61,5,15,True
+The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,Business,27.55,3,15,True
+Shoe Dog: A Memoir by the Creator of NIKE,Business,23.99,2,15,True
+Made to Stick: Why Some Ideas Survive and Others Die,Business,38.85,5,14,True
+Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,Business,43.14,1,12,True
+The Art of Startup Fundraising,Business,21.0,3,11,True
+Born for This: How to Find the Work You Were Meant to Do,Business,21.59,5,11,True
+The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,Business,36.91,1,8,True
+"Rich Dad, Poor Dad",Business,51.74,1,7,True
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Business,33.92,3,3,True
+Rework,Business,44.88,2,3,True
+Louisa: The Extraordinary Life of Mrs. Adams,Biography,16.85,2,15,True
+"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",Biography,21.15,2,11,True
+The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,Biography,39.55,1,7,True
+Benjamin Franklin: An American Life,Biography,48.19,3,7,True
+The Rise of Theodore Roosevelt (Theodore Roosevelt #1),Biography,42.57,3,3,True
+In Her Wake,Thriller,12.84,1,19,True
+The Elephant Tree,Thriller,23.82,5,18,True
+Behind Closed Doors,Thriller,52.22,4,18,True
+You (You #1),Thriller,43.61,5,14,True
+The Guilty (Will Robie #4),Thriller,13.82,2,14,True
+The 14th Colony (Cotton Malone #11),Thriller,39.24,1,14,True
+Give It Back,Thriller,18.32,2,6,True
+Killing Floor (Jack Reacher #1),Thriller,31.49,4,5,True
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),Thriller,59.71,3,4,True
+Far From True (Promise Falls Trilogy #2),Thriller,34.93,2,4,True
+The Travelers,Thriller,15.77,1,3,True
+When We Collided,Contemporary,31.77,1,16,True
+Someone Like You (The Harrisons #2),Contemporary,52.79,5,14,True
+We Are All Completely Beside Ourselves,Contemporary,24.04,1,3,True
+The Four Agreements: A Practical Guide to Personal Freedom,Spirituality,17.66,5,18,True
+The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Spirituality,32.24,5,16,True
+Chasing Heaven: What Dying Taught Me About Living,Spirituality,37.8,2,15,True
+If I Gave You God's Phone Number....: Searching for Spirituality in America,Spirituality,20.91,1,9,True
+Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,Spirituality,46.33,2,7,True
+A New Earth: Awakening to Your Life's Purpose,Spirituality,55.65,5,4,True
+Logan Kade (Fallen Crest High #5.5),Academic,13.12,2,5,True
+Online Marketing for Busy Authors: A Step-By-Step Guide,Self Help,46.35,1,16,True
+How to Be Miserable: 40 Strategies You Already Use,Self Help,46.03,1,16,True
+"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",Self Help,52.15,3,14,True
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Self Help,12.08,3,7,True
+How to Stop Worrying and Start Living,Self Help,46.49,5,6,True
+All the Light We Cannot See,Historical,29.87,5,14,True
+The Girl You Left Behind (The Girl You Left Behind #1),Historical,15.79,1,6,True
+(Un)Qualified: How God Uses Broken People to Do Big Things,Christian,54.0,5,16,True
+Crazy Love: Overwhelmed by a Relentless God,Christian,47.72,2,14,True
+Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Christian,25.77,1,7,True
+Silence in the Dark (Logan Point #4),Suspense,58.33,3,8,True
+The Grownup,Short Stories,35.88,1,8,True
+Suzie Snowflake: One beautiful flake (a self-esteem story),Novels,54.81,5,9,True
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",Health,49.05,3,16,True
+"Eat Fat, Get Thin",Health,54.07,2,14,True
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,Health,49.71,5,10,True
+The Art and Science of Low Carbohydrate Living,Health,52.98,5,9,True
+Libertarianism for Beginners,Politics,51.33,2,19,True
+Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,Politics,52.65,4,14,True
+Equal Is Unfair: America's Misguided Fight Against Income Inequality,Politics,56.86,1,12,True
+Amid the Chaos,Cultural,36.58,1,15,True
+Dark Notes,Erotica,19.19,5,15,True
+The Long Shadow of Small Ghosts: Murder and Memory in an American City,Crime,10.97,1,15,True
